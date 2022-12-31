@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Profiler</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Android Device Profiler</string>
+    <string name="second_fragment_label">Android Device Profiler</string>
+    <string name="next"><font color='white'>Profile</font></string>
+    <string name="previous"><font color='white'>Previous</font></string>
+</resources>
